@@ -1,60 +1,110 @@
-<!-- The (first) h1 will be used as the <title> of the HTML page -->
-# Richard Hendricks
+# John Carlos Ignacio
+## Genetics and Genomics, PhD Student
 
-<!-- The unordered list immediately after the h1 will be formatted on a single
-line. It is intended to be used for contact details -->
-- <richard.hendriks@mail.com>
-- (912) 555-4321
-- [richardhendricks.example.com](http://richardhendricks.example.com)
-- San Francisco, CA
+> [Download PDF](resume.pdf)  
+> [ignacio.8@buckeyemail.osu.edu](ignacio.8@buckeyemail.osu.edu)  
+> +1 (607) 262-6660
 
-<!-- The paragraph after the h1 and ul and before the first h2 is optional. It
-is intended to be used for a short summary. -->
-CEO and Software Engineer with knowledge of applied information theory,
-including optimizing lossless compression schema of both the length-limited and
-adaptive variants.
+------
 
-## Experience
+### Profile {#profile}
 
-<!-- You have to wrap the "left" and "right" half of these headings in spans by
-hand -->
-### <span>CEO/President, Pied Piper</span> <span>Dec 2013 -- Dec 2014</span>
+Life-long scholar with a passion for science and genetics research. Driven to apply skills in genomics, statistics, and computer science to contribute to society. Strong foundation in statistics and currently writing a dissertation on evaluation of linear mixed models for phenotypic prediction. Adept in a wide range of computational techniques from multivariate analysis, simulations, and optimization. Well versed in analyzing data using R and writing softwares using Java and Python.
 
-Pied Piper is a multi-platform technology based on a proprietary universal
-compression algorithm that has consistently fielded high Weisman Scores™ that
-are not merely competitive, but approach the theoretical limit of lossless
-compression.
+------
 
- - Build an algorithm for artist to detect if their music was violating
-   copyright infringement laws
- - Successfully won Techcrunch Disrupt
- - Optimized an algorithm that holds the current world record for Weisman Scores
+### Skills {#skills}
 
-### <span>Teacher, CoderDojo</span> <span>July 2013 -- Dec 2013</span>
+* Genetics and Genomics
+  : Analyzed several genetic and genomic datasets for a wide-range of applications such as population genetics, quantitative trait loci mapping, genome-wide association, and phenotypic predictions.
 
-Global movement of free coding clubs for young people.
+* Statistics
+  : Linear mixed modeling and multivariate analysis of phenotypic and genomic data
+  : Evaluation of statistcal models using cross-validation methods
 
- - Awarded 'Teacher of the Month'
+* Computer sciences
+  : Applied optimization algorithms to solve problems in the field of genetics
+  : Written sofware packages in Java and Python to analyze genetic markers and an R package to correct sequence-based genotyping errors
 
-## Projects
+-------
 
-### <span>Miss Direction</span> <span>Aug 2016</span>
+### Technical {#technical}
 
-A mapping engine that misguides you:
+- R
+- Unix
+- Java
+- Python
+- Cloud computing
+- Version control
 
-   - Won award at AIHacks 2016
-   - Built by all women team of newbie programmers
-   - Using modern technologies such as GoogleMaps, Chrome Extension and Javascript
+------
 
-## Education
+### R packages {#rpackages}
 
-### <span>University of Oklahoma, BA Information Technology</span> <span>2011 -- 2014</span>
+- nlme/lme4
+- ggplot2
+- dplyr
+- reshape2
+- ASReml
+- GAPIT
+- R-markdown
 
-  - GPA 4.0
-  - DB1101 - Basic SQL
-  - CS2011 - Java Introduction
+------
 
-## Skills
+### Experience {#experience}
 
- - Web development: HTML, CSS, JavaScript
- - Compression: Mpeg, MP4, GIF
+Ohio Agricultural Research and Development Center, The Ohio State University
+: *Research Associate*
+  __2020-present__
+  Evaluation and implementation of genomic prediction using linear mixed models for yield and *Fusarium* head blight disease resistance improvement in wheat
+
+International Rice Research Institute, Los Baños, Philippines
+: *Assistant Scientist, Genetics and Genomics*
+  __2015-2020__
+  Led development and integration of sequence-based and fluorescence-based marker data analysis tools with breeding decision-support tools
+
+International Rice Research Institute, Los Baños, Philippines
+: *Assistant Scientist, Genetics*
+  __2010-2015__
+  Association of genetic markers with quantitative traits related to flood tolerance in rice
+
+------
+
+### Education {#education}
+
+The Ohio State University
+: *Doctor of Philosophy in Horticulture and Crop Sciences*
+  __2022 (expected in December)__
+
+
+University of the Philippines Los Baños, Philippines
+: *Masters in Genetics and Computer Science*
+  __2019__
+
+
+University of the Philippines Los Baños, Philippines
+: *Bachelor of Science in Biology*
+  __2010__
+
+------
+
+### References {#references}
+
+Dr. Clay Sneller
+Professor, Wheat Breeding
+The Ohio State University, Wooster, OH
++1 (330) 749-8942
+[sneller.5@osu.edu](sneller.5@osu.edu)
+
+Endang Septiningsih
+Associate Professor, Rice Genetics and Genomics
+Texas A&M University, College Station, TX
++1 (979) 845-7527
+[eseptiningsih@tamu.edu](eseptiningsih@tamu.edu)
+
+Elizabeth Jones
+Senior Principal Scientist
+Embark Veterinary, Ithaca, NY
++1 (607) 793-4062
+
+------
