@@ -12,13 +12,13 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Researcher with a passion for science and genetics. Driven to apply skills in genomics, statistics, and computer science to contribute to society. Strong foundation in statistics and currently writing a dissertation on evaluation of linear mixed models for phenotypic prediction. Adept in a wide range of computational techniques from multivariate analysis, simulations, and optimization. Well versed in analyzing data using R and writing softwares using Java and Python.
+Researcher with a passion for science and genetics. Driven to apply skills in genomics, statistics, and computer science to contribute to society. Strong foundation in statistics and currently writing a dissertation on evaluating linear mixed models for phenotypic prediction. Adept in a wide range of computational techniques from multivariate analysis, simulations, and optimization. Well-versed in analyzing data using R and writing software using Java and Python.
 
 ## Skills
 
 **Genetics and Genomics**
 
-Analyzed several genetic and genomic datasets for a wide-range of applications such as population genetics, marker design, quantitative trait loci mapping, genome-wide association, and phenotypic predictions.
+Analyzed several genetic and genomic datasets for various applications such as population genetics, marker design, quantitative trait loci mapping, genome-wide association, and phenotypic predictions.
 
 **Statistics**
 
@@ -26,14 +26,14 @@ Linear mixed modeling and multivariate analysis of phenotypic and genomic data. 
 
 **Computer science**
 
-Applied optimization algorithms to solve problems in the field of genetics. Written sofware packages in Java and Python to analyze genetic markers and an R package to correct sequence-based genotyping errors.
+Applied optimization algorithms to solve problems in the field of genetics. Written software packages in Java and Python to analyze genetic markers and an R package to correct sequence-based genotyping errors.
 
 ## Experience
 
 ### <span>Research Associate</span> <span>2020-present</span>
 Ohio Agricultural Research and Development Center, The Ohio State University
 
-Evaluation and implementation of genomic prediction using linear mixed models for yield and *Fusarium* head blight disease resistance improvement in wheat
+Evaluation and implementation of genomic prediction using linear mixed models for yield and disease resistance improvement in wheat
 
 ### <span>Assistant Scientist - Genetics and Genomics</span> <span>2015-2020</span>
 International Rice Research Institute, Los Baños, Philippines
