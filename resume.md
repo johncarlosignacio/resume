@@ -66,16 +66,16 @@ Genetics, molecular breeding, and optimization algorithms
 - +1 (330) 749-8942
 - <sneller.5@osu.edu>
 
+### Dr. Elizabeth Jones
+
+- Senior Principal Scientist
+- Embark Veterinary, Ithaca, NY
+- +1 (607) 793-4062
+- <ejones@embarkvet.com>
+
 ### Dr. Endang Septiningsih
 
 - Associate Professor, Rice Genetics and Genomics
 - Texas A&M University, College Station, TX
 - +1 (979) 845-7527
 - <eseptiningsih@tamu.edu>
-
-### Dr. Elizabeth Jones
-
-- Senior Principal Scientist
-- Embark Veterinary, Ithaca, NY
-- +1 (607) 793-4062
-- <ejones@embarkvet.org>
