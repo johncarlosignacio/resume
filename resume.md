@@ -55,7 +55,7 @@ Focused more on statistic courses such as linear mixed models, multivariate anal
 
 Genetics, molecular breeding, and optimization algorithms
 
-### <span>BS in Biology, University of the Philippines Los Baños, Philippines</span><span>Oct 2010</span>
+### <span>BS in Biology, University of the Philippines Baguio, Philippines</span><span>Oct 2010</span>
 
 ## References
 
@@ -66,14 +66,14 @@ Genetics, molecular breeding, and optimization algorithms
 - +1 (330) 749-8942
 - <sneller.5@osu.edu>
 
-### Endang Septiningsih
+### Dr. Endang Septiningsih
 
 - Associate Professor, Rice Genetics and Genomics
 - Texas A&M University, College Station, TX
 - +1 (979) 845-7527
 - <eseptiningsih@tamu.edu>
 
-### Elizabeth Jones
+### Dr. Elizabeth Jones
 
 - Senior Principal Scientist
 - Embark Veterinary, Ithaca, NY
