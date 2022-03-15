@@ -1,110 +1,81 @@
+<!-- The (first) h1 will be used as the <title> of the HTML page -->
 # John Carlos Ignacio
-## Genetics and Genomics, PhD Student
 
-> [Download PDF](resume.pdf)  
-> [ignacio.8@buckeyemail.osu.edu](ignacio.8@buckeyemail.osu.edu)  
-> +1 (607) 262-6660
+<!-- The unordered list immediately after the h1 will be formatted on a single
+line. It is intended to be used for contact details -->
+- <ignacio.8@buckeyemail.osu.edu>
+- +1 (607) 262-6660
+- [\[LinkedIn\]](https://www.linkedin.com/in/john-carlos-ignacio-132131a7/)
+- [\[Github\]](https://github.com/johncarlosignacio) 
+- [\[Bitbucket\]](https://bitbucket.org/jcignacio/)
 
-------
 
-### Profile {#profile}
+<!-- The paragraph after the h1 and ul and before the first h2 is optional. It
+is intended to be used for a short summary. -->
+Researcher with a passion for science and genetics. Driven to apply skills in genomics, statistics, and computer science to contribute to society. Strong foundation in statistics and currently writing a dissertation on evaluation of linear mixed models for phenotypic prediction. Adept in a wide range of computational techniques from multivariate analysis, simulations, and optimization. Well versed in analyzing data using R and writing softwares using Java and Python.
 
-Life-long scholar with a passion for science and genetics research. Driven to apply skills in genomics, statistics, and computer science to contribute to society. Strong foundation in statistics and currently writing a dissertation on evaluation of linear mixed models for phenotypic prediction. Adept in a wide range of computational techniques from multivariate analysis, simulations, and optimization. Well versed in analyzing data using R and writing softwares using Java and Python.
+## Skills
 
-------
+**Genetics and Genomics**
 
-### Skills {#skills}
+Analyzed several genetic and genomic datasets for a wide-range of applications such as population genetics, marker design, quantitative trait loci mapping, genome-wide association, and phenotypic predictions.
 
-* Genetics and Genomics
-  : Analyzed several genetic and genomic datasets for a wide-range of applications such as population genetics, quantitative trait loci mapping, genome-wide association, and phenotypic predictions.
+**Statistics**
 
-* Statistics
-  : Linear mixed modeling and multivariate analysis of phenotypic and genomic data
-  : Evaluation of statistcal models using cross-validation methods
+Linear mixed modeling and multivariate analysis of phenotypic and genomic data. Evaluation of statistical models using cross-validation methods.
 
-* Computer sciences
-  : Applied optimization algorithms to solve problems in the field of genetics
-  : Written sofware packages in Java and Python to analyze genetic markers and an R package to correct sequence-based genotyping errors
+**Computer science**
 
--------
+Applied optimization algorithms to solve problems in the field of genetics. Written sofware packages in Java and Python to analyze genetic markers and an R package to correct sequence-based genotyping errors.
 
-### Technical {#technical}
+## Experience
 
-- R
-- Unix
-- Java
-- Python
-- Cloud computing
-- Version control
-
-------
-
-### R packages {#rpackages}
-
-- nlme/lme4
-- ggplot2
-- dplyr
-- reshape2
-- ASReml
-- GAPIT
-- R-markdown
-
-------
-
-### Experience {#experience}
-
+### <span>Research Associate</span> <span>2020-present</span>
 Ohio Agricultural Research and Development Center, The Ohio State University
-: *Research Associate*
-  __2020-present__
-  Evaluation and implementation of genomic prediction using linear mixed models for yield and *Fusarium* head blight disease resistance improvement in wheat
 
+Evaluation and implementation of genomic prediction using linear mixed models for yield and *Fusarium* head blight disease resistance improvement in wheat
+
+### <span>Assistant Scientist - Genetics and Genomics</span> <span>2015-2020</span>
 International Rice Research Institute, Los Baños, Philippines
-: *Assistant Scientist, Genetics and Genomics*
-  __2015-2020__
-  Led development and integration of sequence-based and fluorescence-based marker data analysis tools with breeding decision-support tools
 
+Led design and validation of sequence-based and fluorescence-based marker assay and analysis tools and integrated them into decision-support pipelines
+
+### <span>Assistant Scientist - Genetics</span><span>2010-2015</span>
 International Rice Research Institute, Los Baños, Philippines
-: *Assistant Scientist, Genetics*
-  __2010-2015__
-  Association of genetic markers with quantitative traits related to flood tolerance in rice
 
-------
+Association of genetic markers with quantitative traits related to flood tolerance in rice
 
-### Education {#education}
+## Education
 
-The Ohio State University
-: *Doctor of Philosophy in Horticulture and Crop Sciences*
-  __2022 (expected in December)__
+### <span>PhD in Horticulture and Crop Sciences, The Ohio State University</span><span> Dec 2022 (Expected)</span>
 
+Focused more on statistic courses such as linear mixed models, multivariate analysis, and experiment design
 
-University of the Philippines Los Baños, Philippines
-: *Masters in Genetics and Computer Science*
-  __2019__
+### <span>MS in Genetics and Computer Science, University of the Philippines Los Baños, Philippines</span><span>Dec 2019</span>
 
+Genetics, molecular breeding, and optimization algorithms
 
-University of the Philippines Los Baños, Philippines
-: *Bachelor of Science in Biology*
-  __2010__
+### <span>BS in Biology, University of the Philippines Los Baños, Philippines</span><span>Oct 2010</span>
 
-------
+## References
 
-### References {#references}
+### Dr. Clay Sneller
 
-Dr. Clay Sneller
-Professor, Wheat Breeding
-The Ohio State University, Wooster, OH
-+1 (330) 749-8942
-[sneller.5@osu.edu](sneller.5@osu.edu)
+- Professor, Wheat Breeding
+- The Ohio State University, Wooster, OH
+- +1 (330) 749-8942
+- <sneller.5@osu.edu>
 
-Endang Septiningsih
-Associate Professor, Rice Genetics and Genomics
-Texas A&M University, College Station, TX
-+1 (979) 845-7527
-[eseptiningsih@tamu.edu](eseptiningsih@tamu.edu)
+### Endang Septiningsih
 
-Elizabeth Jones
-Senior Principal Scientist
-Embark Veterinary, Ithaca, NY
-+1 (607) 793-4062
+- Associate Professor, Rice Genetics and Genomics
+- Texas A&M University, College Station, TX
+- +1 (979) 845-7527
+- <eseptiningsih@tamu.edu>
 
-------
+### Elizabeth Jones
+
+- Senior Principal Scientist
+- Embark Veterinary, Ithaca, NY
+- +1 (607) 793-4062
+- <ejones@embarkvet.org>
